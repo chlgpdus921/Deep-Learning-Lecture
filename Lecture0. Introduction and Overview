@@ -1,0 +1,27 @@
+Lecture0. Introduction and Overview
+
+< Audience >
+1. y= Wx + b (y = ax+b) 
+This is a lecture that can be fully followed by understanding this concept. 
+Because there are many machine learning algorithm tools. 
+2. Like black-box ( you don't know what's in there ),  you can input and output.
+3. There is a Tensorflow tool that can be implemented. 
+
+< Goals >
+1. Basic understanding of machine running
+2. Basic algorithm learning for Deep Learning
+   - Linear revision, Logistic revision. 
+   - Neural networks. Convolutional Neural networks
+3. Use Tensorflow to actually solve problems 
+
+< Course Structure >
+1. Lecture 10-minute lecture
+2. Programming using Tensorflow
+
+< Schedule >
+1. Machine learning basic concepts
+2. Linear regression
+3. Logisitic regression (classification)
+4. Multivariable (Vector) linear/logisitic regression
+5. Neural networks
+6. Deep learning (CNN, RNN, Bidirectional Neural networks)
