@@ -52,7 +52,7 @@ This lecture will mainly deal with supervised of two learning type. Because this
     A system that predicts grades according to study time.
     It's one of five (A,B,C,D,F), so  classification.
     It is called Multi-label classification because there are many labeled.
-</hr>
+<hr/>
 <h2> 1.4 Supervised learning Examples </h3>
 <h3> 1.4.1 Regression </h3>
    
@@ -66,7 +66,7 @@ This lecture will mainly deal with supervised of two learning type. Because this
     Y (score)| P P F F
     Pass/Non-pass
     
-<h3> 1.4.3 Multi-label Classification </h3
+<h3> 1.4.3 Multi-label Classification </h3>
 
     X (time) | 10 9 3 2
     Y (score)| A B D F
