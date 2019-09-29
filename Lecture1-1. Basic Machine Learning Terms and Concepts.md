@@ -47,7 +47,7 @@ This lecture will mainly deal with supervised of two learning type. Because this
     This is called classification because it is to choose between the two.
     But two range, This is called Binary classification.
     
-<h3> 1.3.2.2  Multi-label classification</h3>
+<h3> 1.3.2.2  Multi-label classification </h3>
 
     A system that predicts grades according to study time.
     It's one of five (A,B,C,D,F), so  classification.
